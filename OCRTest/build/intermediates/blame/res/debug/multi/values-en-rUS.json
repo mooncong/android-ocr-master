@@ -1,0 +1,38 @@
+[
+    {
+        "outputFile": "/Users/zhangjianlong/Downloads/android-ocr-master/OCRTest/build/intermediates/res/merged/debug/values-en-rUS/values-en-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "/Users/zhangjianlong/Downloads/android-ocr-master/OCRTest/src/main/res/values-en-rUS/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 51,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/Users/zhangjianlong/Downloads/android-ocr-master/OCRTest/src/main/res/values-en-rUS/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 96,
+                        "endColumn": 51,
+                        "endOffset": 143
+                    }
+                }
+            }
+        ]
+    }
+]

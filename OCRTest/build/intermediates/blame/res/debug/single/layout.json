@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangjianlong/Downloads/android-ocr-master/OCRTest/build/intermediates/res/merged/debug/layout/capture.xml",
+        "source": "/Users/zhangjianlong/Downloads/android-ocr-master/OCRTest/src/main/res/layout/capture.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/Downloads/android-ocr-master/OCRTest/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/Users/zhangjianlong/Downloads/android-ocr-master/OCRTest/src/main/res/layout/help.xml"
+    }
+]
